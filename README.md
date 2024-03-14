@@ -20,7 +20,7 @@ Perkenalkan nama saya **Satria  Alukman Maulana**.<br>
  
 Saya seorang **Mahasiswa** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram]([https://www.instagram.com/akun-ig/](https://www.instagram.com/satriaalukman_/))ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/satriaalukman_/)ku ya.
  
 ### Github Statistic
 <p align="left">

@@ -1,53 +1,35 @@
-## Hello World, I'm [Aakash Sinha!](https://www.linkedin.com/in/aakash9868sinha/) 
-<!--
-**isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Satria</h1>
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
-Here are some ideas to get you started:
+# 💫 About Me:
+As a backend developer with four years of experience, I've honed my skills in designing and building the server-side of applications that power the web. <br>My proficiency in Java has allowed me to develop robust and scalable systems that efficiently handle large volumes of data and traffic.<br><br>Throughout my career, I've gained expertise in database management, RESTful API design, and cloud technologies such as AWS or Azure.<br>My deep understanding of software architecture principles has enabled me to create well-structured and maintainable codebases.<br>I take pride in my ability to work collaboratively with other members of a development team and to effectively communicate complex technical concepts to non-technical stakeholders.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=SatriaAlukman&color=447ff7&label=Visitor+count)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://www.linkedin.com/in/aakash9868sinha/">
-  <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
-</a>
-<a href="https://twitter.com/isupersky">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/twitter" />
-</a>
-<a href="mailto:mailtomeaakash@gmail.com">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
-</a>
-<a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/youtube" />
-</a>
-<a href="https://isupersky.medium.com/">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/medium/777777" />
-</a>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<br />
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### About Me 🚀
-🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+<!-- # 📊 GitHub Stats: -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=react&hide_border=false)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> -->
 
-### My Experiences 🙌
-- [Software Develpment Engineer (FreeCharge)](https://www.freecharge.in/) - (Jul'21-Present)
-- [BAT Ambassador (Brave)](https://brave.com/) - (Apr'21-Present)
-- [Software Engineer (To The New)](https://www.tothenew.com/) - (Dec'20-Jul'21)
-
-<!--![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
-<br />
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 
-### 📕 Blog Posts
-- [React-Redux : A basic intro for Back-end developers](https://isupersky.medium.com/react-redux-intro-for-back-end-developers-5113c0a498a9)
-- [Add a README for your profile : GitHub feature](https://isupersky.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
-<br/>
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AdityaKumar28&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

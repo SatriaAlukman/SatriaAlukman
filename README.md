@@ -67,8 +67,8 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.instagram.com/darshan_r_27/" target="_blank">
-  <img align="center" alt="Darshan R | Instagram" width="24px" src="[https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg](https://www.instagram.com/satriaalukman_/)" />
+<a href="https://www.instagram.com/satriaalukman_/" target="_blank">
+  <img align="center" alt="Satria Alukman Maulana | Instagram" width="24px" src="(https://www.instagram.com/satriaalukman_/)"/>
 </a> &nbsp;&nbsp;
 <p>
   

@@ -1,87 +1,53 @@
-### Hi there, I'm Satria A <img src="https://github.com/SatriaAlukman">
+## Hello World, I'm [Aakash Sinha!](https://www.linkedin.com/in/aakash9868sinha/) 
+<!--
+**isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
----
+Here are some ideas to get you started:
 
-<br />
-
-- 💻 Currently I'm working as a Html Developer
-
-<br />
-
-### 🧰 Languages and Tools:
-
-<img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
-<img align="left" alt="Java" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/java.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/sql.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
-<img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
-
-<br />
-<br />
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
-<!-- Profile Trophy -->
-### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=darshanr27&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+<a href="https://www.linkedin.com/in/aakash9868sinha/">
+  <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
+</a>
+<a href="https://twitter.com/isupersky">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/twitter" />
+</a>
+<a href="mailto:mailtomeaakash@gmail.com">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
+</a>
+<a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/youtube" />
+</a>
+<a href="https://isupersky.medium.com/">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/medium/777777" />
 </a>
 
+<br />
 
-<!--   Stats -->
-### 📊 GitHub Stats:
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=darshanr27&theme=nord&show_icons=true&count_private=true)
-  
-  
-<!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshanr27&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshanr27&theme=nord_dark)
+### About Me 🚀
+🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
+👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
+### My Experiences 🙌
+- [Software Develpment Engineer (FreeCharge)](https://www.freecharge.in/) - (Jul'21-Present)
+- [BAT Ambassador (Brave)](https://brave.com/) - (Apr'21-Present)
+- [Software Engineer (To The New)](https://www.tothenew.com/) - (Dec'20-Jul'21)
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
- [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshanr27&theme=github)](https://github.com/darshanr27)
-
- <br>
- <br>
- 
-[![An image of @darshanr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshanr)](https://holopin.io/@darshanr)
+<!--![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
+<br />
 
 
- <br> 
- 
- <hr>
- 
- <br>
-
-  <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
-<p align="center">
-<a href="https://www.instagram.com/satriaalukman_/" target="_blank">
-  <img align="center" alt="Satria Alukman Maulana | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<p>
-  
-<br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/darshanr27/count.svg" />  
-</p>
-   
-  ---
-  *\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
-  
-  ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
-  
+### 📕 Blog Posts
+- [React-Redux : A basic intro for Back-end developers](https://isupersky.medium.com/react-redux-intro-for-back-end-developers-5113c0a498a9)
+- [Add a README for your profile : GitHub feature](https://isupersky.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
+<br/>

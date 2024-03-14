@@ -68,7 +68,7 @@
   </div>
 <p align="center">
 <a href="https://www.instagram.com/satriaalukman_/" target="_blank">
-  <img align="center" alt="Satria Alukman Maulana | Instagram" width="24px" src="(https://www.instagram.com/satriaalukman_/)"/>
+  <img align="center" alt="Satria Alukman Maulana | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <p>
   

@@ -37,7 +37,7 @@
 ---
 
 ### 👨About Me :
-<pre></pre>
+<pre>
     📖 informatics Engineering
     🎮 Music • Games
     🐾 Cat 🐱 • chicken noodle 🍜

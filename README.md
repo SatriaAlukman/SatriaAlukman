@@ -37,12 +37,10 @@
 ---
 
 ### 👨About Me :
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 <pre>
     📖 informatics Engineering
     🎮 Music • Games • Anime • Book
     🐾 Cat 🐱 • chicken noodle 🍜
-<img src="https://github.com/zikolistiyanto/zikolistiyanto/blob/main/assets/hello.gif" height="100" />
 </pre>
 
 ---

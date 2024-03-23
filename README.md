@@ -24,7 +24,7 @@
 
 <h1>
   hey there, My name Satria Alukman Maulana
-  <br>I'm Student at IST AKPRIND Yogyakarta</br>
+  <br>I'm Student at University AKPRIND Indonesia</br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
